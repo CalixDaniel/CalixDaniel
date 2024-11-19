@@ -18,7 +18,7 @@ I am a mechatronics engineer with expertise in:
 ---
 
 ### 🌟 Highlights  
-- **Engineering Leadership:** Leading engineering efforts at ChipMango.  
+- **Engineering Leadership:** Leading ASIC/FPGA engineering efforts at ChipMango.  
 - **IoT & Embedded Projects:** Developed smart solutions for system optimization.  
 - **Client-Focused Growth:** Delivered impactful results in business development roles.  
 
