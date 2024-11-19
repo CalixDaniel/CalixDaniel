@@ -2,7 +2,8 @@
 
 # Hi there! 👋 I'm Daniel Udoh
 
-🚀 **Engineering Team Lead | Chip Design Verifier | Embedded Systems Enthusiast**  
+🚀 **Engineering | Business Dvelopment**  
+
 🌍 Building Africa's Semiconductor Future  
 
 ---
